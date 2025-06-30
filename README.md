@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mehranlp
-- 👀 I’m interested in Fintech and Econometrics
-- 🌱 I’m currently learning Python and its application in Risk Management
-- 💞️ I’m looking to collaborate on Risk Management and Fintech Projects. 
+- 👀 I’m interested in Investment and Econometrics
+- 🌱 I’m currently learning Python and its application in Investment Risk Management
 - 📫 You can reach me @ MEHRAN.P@GAMIAL.COM
 
 <!---
